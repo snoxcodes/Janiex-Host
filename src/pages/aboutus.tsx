@@ -3,7 +3,11 @@ import { Users, Zap, Shield, Heart } from 'lucide-react';
 
 // Team Data (Placeholder)
 const teamMembers = [
+    
+
     { name: 'Snox', role: 'Founder & CEO', image: 'https://i.postimg.cc/J0V4YXBm/Web-Profilna.png' },
+
+    
 ];
 
 // Company Values Data
